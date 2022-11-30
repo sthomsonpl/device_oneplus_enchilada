@@ -18,5 +18,8 @@
 <resources>
     <!--  Allow CornerHandleView and PathSpecCornerPathRenderer to decouple from corner-radius -->
     <dimen name="config_rounded_mask_size">97px</dimen>
+    
+     <!-- QS Clock Padding -->
+    <dimen name="qs_clock_left_padding">44dp</dimen>
 </resources>
 
